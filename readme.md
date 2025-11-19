@@ -4,4 +4,4 @@
 | **Nombre** | **Imagen** |
 |-----------|-----------------------------|
 | Alejandro | ![](./img/pepoclown.jpg) |
-| Página 2  | ![](./img/peposad.jpg.) |
+| Página 2  | ![](./img/peposad.jpg) |
