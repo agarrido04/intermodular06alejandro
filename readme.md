@@ -3,5 +3,5 @@
 
 | **Nombre** | **Imagen** |
 |-----------|-----------------------------|
-| Alejandro | ![](./img/pepoclown.jpg) |
+| Alejandro | ![](./img/pepoclown.png) |
 | Página 2  | ![](./img/peposad.jpg) |
